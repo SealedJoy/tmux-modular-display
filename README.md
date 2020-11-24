@@ -8,8 +8,8 @@ This allows for smooth combinination of output from  both scripts that take a lo
 
 Requirements:
 
-tmux
-pip3 install blessed
-python3
+tmux,
+python3, 
+pypi package blessed
 
 
